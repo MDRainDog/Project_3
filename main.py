@@ -1,3 +1,13 @@
+"""
+projekt_3.py: třetí projekt pro  Engeto Online Python Akademie
+               Elections Scraper
+author: Rostyslav Luzan
+email: roluzan@email.cz
+
+"""
+
+
+
 import csv
 import re
 import sys
