@@ -1,6 +1,6 @@
 Elections Scraper (PS 2017)
 
-Skript stahuje výsledky voleb do Poslanecké sněmovny Parlamentu ČR 2017 pro zadaný výběr (seznam obcí) a ukládá je do CSV souboru.
+Skript stahuje výsledky voleb do Poslanecké sněmovny ČR 2017 pro zadaný výběr a ukládá je do CSV souboru.
 
 ---
 
